@@ -1,4 +1,4 @@
-# Exercício 02 - if/else
+# Exercício 02 - Assunção Ferrugento Gonçalves
 
 Neste segundo exercício criei um sketch em que a bola segue o rato e muda de cor e tamanho consoante a sua posição e clique. Seguindo os exemplos do professor, usei duas condições onde a primeira são if/else que dividem o ecrã em quadro quadrantes em que cada um tem uma cor diferente (amarelo, menta, terracota e azul petróleo), e a segunda é um if com mouseIsPressed que aumenta o diâmetro da bola de 40 para 80 quando se clica. O input vem de mouseX, mouseY e mouseIsPressed e também da velocidade do rato, porque com o frame(14) a bola aparece como um carimbo, se mexo depressa fica mais espassada e se mexo mais devagar fica mais densa. 
 Para a comunicação visual a escolha da paleta de cores foi feita sobre um fundo beje semitransparente que faz com que as bolas desaparececem à medida que o rato mexe-se deixando um rastro, e acrescentei um miolo que transforma cada bola num anel. 
