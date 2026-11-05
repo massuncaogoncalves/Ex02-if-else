@@ -1,6 +1,6 @@
 function setup() {
  createCanvas(windowWidth, windowHeight);
- frameRate(80);
+ frameRate (80);
  noStroke();
 
 }
